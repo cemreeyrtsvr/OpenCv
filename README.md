@@ -63,7 +63,3 @@ Projenin yerel makinede çalıştırılması için izlenmesi gereken adımlar:
 4.  Kameranın donanımsal olarak etkinleşmesi 1-2 saniye sürebilir.
 5.  Video akışı `PictureBox` üzerinde başlayacak ve tespit edilen yüzler kırmızı bir dikdörtgen ile işaretlenecektir.
 6.  Akışı durdurmak için **"Kamerayı Durdur"** butonuna tıklayın.
-
-## 6. Lisans
-
-Bu proje MIT Lisansı altında dağıtılmaktadır. Detaylı bilgi için `LICENSE` dosyasına bakınız.
