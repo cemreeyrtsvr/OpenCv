@@ -92,7 +92,7 @@ This project was developed to:
 
 **Cemre Yurtsever**
 
-🎓 Computer Engineering Student  
+🎓 Software Engineering Student  
 🤖 AI & Computer Vision Enthusiast  
 💻 Python • C# • Java  
 
